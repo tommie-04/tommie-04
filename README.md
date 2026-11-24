@@ -1,3 +1,5 @@
+![Pixel robot exploring connected workstations](assets/pixel-robot-banner.png)
+
 # Hi, I'm Tommie
 
 I'm interested in **AI agent architecture**, **applied AI**, and **backend software engineering**. I'm exploring how agents plan and call tools, and how backend services make those workflows reliable in real applications.
