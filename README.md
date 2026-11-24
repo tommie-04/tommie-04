@@ -1,4 +1,4 @@
-![Pixel robot exploring connected workstations](assets/pixel-robot-banner.png)
+![Pixel robot at a retro CRT workstation](assets/pixel-crt-workstation.gif)
 
 # Hi, I'm Tommie
 
