@@ -1,4 +1,4 @@
-# Hi, I'm Tommie Liang 👋
+# Hi, I'm Tommie
 
 I'm interested in **AI agent development** and **backend engineering**. I'm exploring tool calling, agent orchestration, and the services that support them.
 
