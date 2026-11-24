@@ -1,6 +1,6 @@
 # Hi, I'm Tommie
 
-I'm interested in **AI agent development** and **backend engineering**. I'm exploring tool calling, agent orchestration, and the services that support them.
+I'm interested in **AI agent architecture**, **applied AI**, and **backend software engineering**. I'm exploring how agents plan and call tools, and how backend services make those workflows reliable in real applications.
 
 ### Tech Stack
 
