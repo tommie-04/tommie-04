@@ -2,38 +2,11 @@
 
 # Hi, I'm Tommie
 
-My interests span **AI agent architecture, applied AI, and backend software engineering**. I’m especially interested in **Agent Harness engineering**: designing multi-agent orchestration, tool execution guardrails, context and memory management, and evaluation so agents can run reliably in real applications.
-
-On the backend, I’m exploring **Java and Spring Boot** services, with a focus on Redis caching, distributed locks, and asynchronous task processing.
+I’m interested in **AI agent architecture, Agent Harness engineering, and memory design**, with a focus on connecting reliable agent workflows to **backend software engineering**.
 
 ### Tech Stack
 
-**AI Agents & Applications**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AgentScope](https://img.shields.io/badge/AgentScope-5B4AE4?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-363C49?style=for-the-badge)
-
-![Qdrant](https://img.shields.io/badge/Qdrant-BD2044?style=for-the-badge)
-![Redis Streams](https://img.shields.io/badge/Redis%20Streams-BC2626?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-185A83?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Java & Backend Engineering**
-
-![Java](https://img.shields.io/badge/Java-CF632B?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4F8F25?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data Redis](https://img.shields.io/badge/Spring%20Data%20Redis-B32629?style=for-the-badge&logo=redis&logoColor=white)
-![MyBatis-Plus](https://img.shields.io/badge/MyBatis--Plus-3856A1?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-347493?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Redis](https://img.shields.io/badge/Redis-B82D2B?style=for-the-badge&logo=redis&logoColor=white)
-![Redisson](https://img.shields.io/badge/Redisson-A8222D?style=for-the-badge)
-![Lua](https://img.shields.io/badge/Lua-2C318F?style=for-the-badge&logo=lua&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-9B2650?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-007C57?style=for-the-badge&logo=nginx&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-A84C34?style=for-the-badge)
-![Hutool](https://img.shields.io/badge/Hutool-256E65?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AgentScope](https://img.shields.io/badge/AgentScope-5B4AE4?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-363C49?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-BD2044?style=flat-square) ![Redis Streams](https://img.shields.io/badge/Redis%20Streams-BC2626?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-185A83?style=flat-square&logo=sqlite&logoColor=white) ![Java](https://img.shields.io/badge/Java-CF632B?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4F8F25?style=flat-square&logo=springboot&logoColor=white) ![Spring Data Redis](https://img.shields.io/badge/Spring%20Data%20Redis-B32629?style=flat-square&logo=redis&logoColor=white) ![MyBatis-Plus](https://img.shields.io/badge/MyBatis--Plus-3856A1?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-347493?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-B82D2B?style=flat-square&logo=redis&logoColor=white) ![Redisson](https://img.shields.io/badge/Redisson-A8222D?style=flat-square) ![Lua](https://img.shields.io/badge/Lua-2C318F?style=flat-square&logo=lua&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-9B2650?style=flat-square&logo=apachemaven&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-007C57?style=flat-square&logo=nginx&logoColor=white) ![Lombok](https://img.shields.io/badge/Lombok-A84C34?style=flat-square) ![Hutool](https://img.shields.io/badge/Hutool-256E65?style=flat-square)
 
 ### Get in Touch
 
