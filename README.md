@@ -6,7 +6,11 @@ I’m interested in **AI agent architecture, Agent Harness engineering, and memo
 
 ### Tech Stack
 
-![Python](assets/badges/python.svg) ![LangChain](assets/badges/langchain.svg) ![FastAPI](assets/badges/fastapi.svg) ![WebSocket](assets/badges/websocket.svg) ![SQLite](assets/badges/sqlite.svg) ![Java](assets/badges/java.svg) ![Spring Boot](assets/badges/spring-boot.svg) ![Spring Data Redis](assets/badges/spring-data-redis.svg) ![MyBatis-Plus](assets/badges/mybatis-plus.svg) ![MySQL](assets/badges/mysql.svg) ![Redis](assets/badges/redis.svg) ![Redisson](assets/badges/redisson.svg) ![Lua](assets/badges/lua.svg) ![Maven](assets/badges/maven.svg) ![Nginx](assets/badges/nginx.svg)
+![Python](assets/badges/python.svg) ![Java](assets/badges/java.svg) ![LangChain](assets/badges/langchain.svg) ![Spring Boot](assets/badges/spring-boot.svg)
+
+![Redis](assets/badges/redis.svg) ![Kafka](assets/badges/kafka.svg) ![Redisson](assets/badges/redisson.svg) ![Nginx](assets/badges/nginx.svg) ![WebSocket](assets/badges/websocket.svg)
+
+![Vue](assets/badges/vue.svg) ![MySQL](assets/badges/mysql.svg) ![SQLite](assets/badges/sqlite.svg) ![FastAPI](assets/badges/fastapi.svg) ![Lua](assets/badges/lua.svg) ![Maven](assets/badges/maven.svg)
 
 ### Get in Touch
 
